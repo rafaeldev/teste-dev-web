@@ -1,0 +1,7 @@
+# Dependency directories
+CharlieEDogs/node_modules/
+CharlieEDogs/jspm_packages/
+
+CharlieEDogsServer/node_modules/
+CharlieEDogsServer/jspm_packages/
+CharlieEDogsServer/bin/
